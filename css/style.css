@@ -1,0 +1,20 @@
+﻿body{
+    box-sizing: border-box;
+    font-size: 1000%;
+    font-family: Sans-serif;
+    line-height: 1.15;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    vertical-align: baseline;
+    background-color: black;
+    color: green;
+}
+a{
+    color: green;
+    text-decoration: none;
+}
+
+div {
+    font: 800 40px system-ui;
+  }
